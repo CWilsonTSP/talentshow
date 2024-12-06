@@ -15,6 +15,9 @@
 5. In the Bleak Midwinter
     - lights 2, 3, and 4
 
+-- Lincoln Commercial -- 
+- all lights off
+
 6. Poetry Recital
     - light 3
 
@@ -41,9 +44,6 @@
 
 12. Twelve Days of Christmas
     - lights 2, 3, and 4
-
-
-- all lights off for Lincoln
 
 
 
